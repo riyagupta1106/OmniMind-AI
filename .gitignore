@@ -1,0 +1,9 @@
+venv/
+omnimind_env/
+__pycache__/
+*.pyc
+
+vector_db/
+uploads/
+
+.env
